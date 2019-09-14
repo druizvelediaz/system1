@@ -1,1 +1,1 @@
-[{"image":"ironMan.JPG","title":"Iron Man"}]
+[{"image":"ironMan.JPG","title":"Iron Man"},{"image":Background.jpg","title":"randomPic"}]
