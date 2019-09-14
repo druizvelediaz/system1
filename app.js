@@ -6,6 +6,6 @@ function loadDoc() {
             this.responseText;
         }
     };
-    xhttp.open("GET", "Cards/ironMan", true);
+    xhttp.open("GET", "https://raw.githubusercontent.com/druizvelediaz/system1/master/Cards/ironMan.txt", true);
     xhttp.send();
 }
